@@ -1,7 +1,11 @@
 class HomeController < ApplicationController
     
     def index
-    @something="hi"    
+    @something="hi"     
+    end 
+    
+    def shibal
+    @dongee="shibal"
     end
 
     
